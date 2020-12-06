@@ -1,3 +1,3 @@
-1 download
-2 open launch and create rcon server minecraft
-3 open fille create
+1 Скачиваем
+2 Одкриваем launch.bat подключаемся к ркон майнкрафт
+3 Одкриваем Созданой фаил
